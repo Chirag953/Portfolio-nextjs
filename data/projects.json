@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Know Your Road",
+    "description": "A web app that lets users scan QR codes on roads to instantly view details like project cost, contractors, and officials involved. I am leading this project, and it's currently a work in progress.",
+    "image": "/project-placeholder.svg",
+    "techStack": ["React", "QR Code", "Web App", "Node.js", "Express.js", "MongoDB"],
+    "url": "https://github.com/Chirag953/Know-Your-Road",
+    "date": "2024",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "AI-Powered Chat Application",
+    "description": "Built with React, Nhost authentication, and real-time GraphQL subscriptions. Features secure user messaging integrated with OpenRouter AI through n8n workflows.",
+    "image": "/project-placeholder.svg",
+    "techStack": ["React", "Nhost", "GraphQL", "OpenRouter AI", "n8n"],
+    "url": "https://github.com/Chirag953/Chat-Bot",
+    "date": "2024",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Bloggle - Blogging Platform",
+    "description": "A full-stack blogging platform with user authentication, post creation, editing, and commenting features and user dashboard. Developed using the MERN stack, I handled both frontend integration and backend logic.",
+    "image": "/project-placeholder.svg",
+    "techStack": ["React", "Node.js", "Express.js", "MongoDB"],
+    "url": "https://github.com/Chirag953/Bloggle",
+    "date": "2025",
+    "featured": true
+  }
+]
